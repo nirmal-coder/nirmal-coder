@@ -15,9 +15,9 @@ Welcome to my corner of GitHub! I'm a **passionate coder**, an avid learner, and
 
 ## 🛠️ Skills & Tools  
 
-- **Frontend**: React.js, HTML, CSS, JavaScript, Bootstrap  
-- **Backend**: Node.js  
-- **Databases**: SQLite, MongoDB (in progress)  
+- **Frontend**: React.js, HTML, CSS, JavaScript, Bootstrap , Tailwind css 
+- **Backend**: Node.js  , Express.js
+- **Databases**: SQLite, MongoDB   
 - **Other Tools**: Git, Figma, VS Code  
 
 ---
